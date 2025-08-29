@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Carol Ramokone]
 
 ## 🚀 About Me
 I am a **Data Scientist**, and **Data Engineer** passionate about building impactful, data-driven solutions.  
