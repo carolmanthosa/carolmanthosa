@@ -2,7 +2,7 @@
 
 - **React**: Building interactive UIs, handling state management, and leveraging hooks for functional components.
 - **Angular**: Building scalable enterprise applications using Angular's component-based architecture, dependency injection, RxJS for reactive programming, and Angular Material for consistent UI design.
-- **JavaScript/TypeScript**: Writing clean, maintainable, and scalable code using the latest ES6+ features and TypeScript for type safety.
+- **JavaScript**: Building interactive and dynamic web pages using core JavaScript concepts, handling DOM manipulation, events, and adding functionality to front-end applications.
 
 ## ⚙️ Back-End Development
 
