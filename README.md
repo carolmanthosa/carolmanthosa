@@ -1,21 +1,21 @@
-## 🖥️ Front-End Development
+##  Front-End Development
 
 - **React**: Building interactive UIs, handling state management, and leveraging hooks for functional components.
 - **Angular**: Building scalable enterprise applications using Angular's component-based architecture, dependency injection, RxJS for reactive programming, and Angular Material for consistent UI design.
 - **JavaScript**: Building interactive and dynamic web pages using core JavaScript concepts, handling DOM manipulation, events, and adding functionality to front-end applications.
 
-## ⚙️ Back-End Development
+##  Back-End Development
 
 - **NestJS**: Creating RESTful APIs, working with modular architecture, and handling asynchronous operations with ease.
 - **.NET**: Building robust and scalable web applications and services using ASP.NET Core.
 - **Java Spring Boot**: Developing production-ready microservices and RESTful APIs, leveraging Spring Security for authentication, Spring Data JPA for database management, and a strong focus on scalability and maintainability.
 
-## 🗄️ Databases
+##  Databases
 
 - **MySQL**: Designing and managing relational databases with a focus on performance, indexing, and writing efficient queries for data-driven applications.
 - **PostgreSQL**: Building reliable and scalable database solutions using PostgreSQL's advanced features including complex queries, stored procedures, and robust data integrity.
 
-## 📊 Data Science & Data Engineering
+##  Data Science & Data Engineering
 
 - **Data Science**: Analysing and interpreting complex datasets to extract meaningful insights, building machine learning models, and creating data visualisations using Python libraries such as Pandas, NumPy, scikit-learn, and Matplotlib.
 - **Data Engineering**: Designing and building robust data pipelines and ETL processes, managing large-scale data infrastructure, and ensuring reliable data flow across systems for analytics and reporting.
